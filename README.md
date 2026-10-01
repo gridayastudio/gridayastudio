@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gridayastudio/gridayastudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Gridaya Studio — Creative Developer Dashboard" width="100%">
+</picture>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://gridaya.id">
+  <img src="https://img.shields.io/badge/WEBSITE-GRIDAYA.ID-111827?style=for-the-badge" alt="Gridaya Studio Website">
+</a>
+
+</div>
